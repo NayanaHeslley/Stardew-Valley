@@ -1,0 +1,53 @@
+html{
+    font-family:'Segoe UI';
+    background-color: rgba(147, 137, 235, 0.678);
+    font-size: 120%;
+    color: #fceaea;
+}
+.container{
+    background-color: rgba(119, 113, 197, 0.849);
+    position: center;
+    margin: 6px auto;
+    padding: 50px 50px;  
+    max-width: 1100px;
+}
+.bold{
+    font-weight: bold;
+}
+.biography-container{
+    border-top: 10px;
+    padding: 15px 0;
+    margin: 15px 0;
+    text-align: center;
+}
+.main-paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.sobre{
+    font-style: italic;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.featured-image{
+    text-align: center;
+}
+.sobre-container{
+    text-align: center;
+}
+.personagens-container img{
+     width: 1100px;
+     text-align: center;
+     border-top: 10px;
+     padding: 15px 0;
+     margin: 15px 0;
+}
+.curiosidade-container{
+    width: 1100px;
+    text-align: left;
+    border-top: 10px;
+    padding: 15px 0;
+    margin: 15px 0;
+}
